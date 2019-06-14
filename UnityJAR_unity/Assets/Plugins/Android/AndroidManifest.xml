@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.lenovo.bluetooth">
+    <application
+    android:allowBackup="true"
+    android:label="@string/app_name"
+    android:supportsRtl="true">
+        <!-- android:name= 后的这个名字必须与Android 中.jar写的类名一致 -->
+        <activity android:name=".MyActivity"
+              android:label="@string/app_name">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+             
+      </intent-filter>
+         
+    </activity>
+     
+  </application>
+
+</manifest>
