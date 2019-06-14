@@ -2,3 +2,13 @@
 UnityJAR_unity/Library/
 UnityJAR_unity/Packages/manifest.json
 UnityJAR_unity/Temp/
+UnityJAR_unity/UnityJAR_unity.sln
+UnityJAR_unity/Logs/Packages-Update.log
+UnityJAR_unity/ProjectSettings/VFXManager.asset
+UnityJAR_unity/UnityJAR_unity.csproj
+UnityJAR_unity/Assembly-CSharp.csproj
+UnityJAR_unity/Unity.PackageManagerUI.Editor.csproj
+UnityJAR_unity/Unity.Analytics.DataPrivacy.csproj
+UnityJAR_unity/Unity.TextMeshPro.csproj
+UnityJAR_unity/Unity.CollabProxy.Editor.csproj
+UnityJAR_unity/Unity.TextMeshPro.Editor.csproj
