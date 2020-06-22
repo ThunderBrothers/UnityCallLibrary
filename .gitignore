@@ -15,3 +15,10 @@ UnityJAR_unity/Unity.TextMeshPro.Editor.csproj
 UnityJAR_unity/.vs/UnityJAR_unity/v15/
 UnityJAR_unity/obj/Debug/
 UnityJAR_unity/.vs/UnityJAR_unity/v16/
+Unity_C++_Interop/CppForUnity/.vs/
+Unity_C++_Interop/CppForUnity/Debug/
+Unity_C++_Interop/Unity_InteropCpp/.vs/Unity_InteropCpp/v16/.suo
+Unity_C++_Interop/Unity_InteropCpp/Library/
+Unity_C++_Interop/Unity_InteropCpp/Temp/
+Unity_C++_Interop/Unity_InteropCpp/obj/
+Unity_C++_Interop/Unity_InteropCpp/Logs/Packages-Update.log
