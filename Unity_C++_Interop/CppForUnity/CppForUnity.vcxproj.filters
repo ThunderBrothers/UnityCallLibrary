@@ -24,6 +24,9 @@
     <ClInclude Include="UnityCppInterop.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Debuger.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
@@ -33,6 +36,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="UnityCppInterop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Debuger.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
